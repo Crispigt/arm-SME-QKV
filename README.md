@@ -1,7 +1,7 @@
 # Performance Comparison of QKV Attention Mechanism with ARM SVE and SME Acceleration in gem5
 
 ---
-This is the overall setup for how the code was run.
+This was the overall pipeline for how the code was run.
 
 ![Untitled 2025-05-26 16 54 59](https://github.com/user-attachments/assets/5c2cb1ab-0c87-43c0-81ae-bf45c1188522)
 
