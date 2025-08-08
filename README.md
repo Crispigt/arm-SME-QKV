@@ -12,5 +12,5 @@ This study investigates the performance implications of utilizing ARM's Scalable
 
 ---
 
-The full text can be found here: (To be inserted when it's been uploaded to diva)
+The full text can be found here: https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=2&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Jesper+Lindeberg&language=en&pid=diva2%3A1985696&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=8468
 
