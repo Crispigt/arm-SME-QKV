@@ -12,5 +12,5 @@ This study investigates the performance implications of utilizing ARM's Scalable
 
 ---
 
-The full text can be found here: https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=2&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Jesper+Lindeberg&language=en&pid=diva2%3A1985696&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=8468
+The full text can be found here: [https://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=2&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=Jesper+Lindeberg&language=en&pid=diva2%3A1985696&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=8468](https://kth.diva-portal.org/smash/record.jsf?dswid=-9665&pid=diva2%3A1985696&c=1&searchType=UNDERGRADUATE&language=en&query=&af=%5B%5D&aq=%5B%5B%7B%22freeText%22%3A%22Performance+Comparison+of+Query-Key-Value+Attention+Mechanism+with+ARM+Scalable+Vector+Extension+and+Scalable+Matrix+Extension+Acceleration+in+gem5%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)
 
